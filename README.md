@@ -1,6 +1,7 @@
 ## Expo Accelerometer
-###### Lab 41-43 
-6.24.24
+###### Author: Demo
+###### Lab 41-43  
+
 
 #### Setup
 `npm install expo react-dom react-native expo-sensors`
@@ -10,4 +11,4 @@
 
 ![img.png](img.png)
 
-`Notes: Browser doesn't have an accelerometer :) lolz`
+    6.24.24 Notes: Browser doesn't have an accelerometer :) lolz
